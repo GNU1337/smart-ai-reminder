@@ -1,0 +1,6 @@
+{
+  "name": "Daglig Briefing",
+  "description": "En personlig sammanfattning och minneshjälp som sammanställer dina notiser, prenumerationer och viktiga kom-ihåg-saker till morgon- och kvällsrapporter.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
